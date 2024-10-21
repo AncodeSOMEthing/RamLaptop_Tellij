@@ -7,12 +7,12 @@ import java.util.Scanner;
 public class Main {
 
     public static void main(String[] args) {
-           enuManagerment() {
+           MENU();
 
 
     }
 
-    static public void enuManagerment() {
+    static public void MENU() {
         RamBus ramBus = new RamBus();
         Scanner sc = new Scanner(System.in);
         try {
